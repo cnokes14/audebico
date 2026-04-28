@@ -1,0 +1,16 @@
+{
+    "thresh": 100000.0,
+    "pre": 4.0,
+    "post": 4.0,
+    "res_x": 320,
+    "res_y": 240,
+    "fps": 20,
+    "mod": 3,
+    "in_debug": true,
+    "sample_rate": 44100,
+    "audio_block_size": 0.1,
+    "amod": 3,
+    "amod_diff": false,
+    "debug_update_freq": 10.0,
+    "config_refresh_rate": 100
+}
